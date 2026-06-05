@@ -1,8 +1,8 @@
 # Hi, I'm Aayush Barot 👋
 
-### Java Backend Developer
+### Java Backend Developer | Spring Boot Enthusiast
 
-Passionate about building scalable backend applications and solving real-world problems.
+Passionate about Java backend development, building REST APIs, and creating scalable applications using Spring Boot and MySQL.
 
 ## 🚀 Skills
 
@@ -30,5 +30,5 @@ Bench Sales Recruiter at NexGen Placement
 
 ## 📫 Connect With Me
 
-LinkedIn:
-www.linkedin.com/in/aayushbarot15
+- LinkedIn: [www.linkedin.com/in/aayushbarot15]
+- HackerRank: [https://www.hackerrank.com/profile/aayush150706]
