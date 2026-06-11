@@ -32,3 +32,4 @@ Bench Sales Recruiter at NexGen Placement
 
 - LinkedIn: [www.linkedin.com/in/aayushbarot15]
 - HackerRank: [https://www.hackerrank.com/profile/aayush150706]
+- portfolio :[aayush-portfolio-omega-lake.vercel.app]
